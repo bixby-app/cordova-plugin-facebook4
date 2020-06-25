@@ -165,7 +165,7 @@
             <config>
                 <source url="https://cdn.cocoapods.org/"/>
             </config>
-            <pods use-frameworks="true">
+            <pods use-frameworks="false">
                 <pod name="FBSDKCoreKit" spec="5.15.0"/>
                 <pod name="FBSDKLoginKit" spec="5.15.0"/>
                 <pod name="FBSDKShareKit" spec="5.15.0"/>
